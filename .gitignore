@@ -6,3 +6,5 @@
 
 # track this folder
 !emacs/**
+
+emacs/auto-save-list/
